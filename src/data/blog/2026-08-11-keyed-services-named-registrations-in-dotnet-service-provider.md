@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Keyed Services (Named registrations) in .NET Service Provider"
-pubDatetime: 2026-08-11T08:00:00Z
+pubDatetime: 2026-08-11T07:00:00Z
 comments: true
 published: true
 categories: ["post"]
