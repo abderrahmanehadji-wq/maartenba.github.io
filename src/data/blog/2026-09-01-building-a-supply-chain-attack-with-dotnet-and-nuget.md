@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Building a Supply Chain Attack with .NET and NuGet"
-pubDatetime: 2026-09-01T08:00:00Z
+pubDatetime: 2026-09-01T06:00:00Z
 comments: true
 published: false
 categories: ["post"]
