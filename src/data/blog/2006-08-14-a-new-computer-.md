@@ -25,3 +25,4 @@ I tried plugging in the power connectors in my HD's one by one. DON'T TRY THIS A
 3 hours later, I found out the ATA cable to my CDROM drive had died too. After replacing that, my computer worked again. Temperatures are better now, too. Everything except the CPU is below 30 degrees.
 
 Conclusion: if you are trouble-shooting your hardware, make sure all cables work correctly...
+<a href="https://www.univ-msila.dz/site/dsp/">Graduated</a>
